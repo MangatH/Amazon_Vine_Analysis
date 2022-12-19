@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 This project involves analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
-In this project, with the access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. I pickup the dataset related to the reviews in the category 'baby products'. 
+In this project, with the access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. I selected the dataset related to the reviews in the category 'baby products'. 
 
 ### Objectives:
 * Use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. 
